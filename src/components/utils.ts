@@ -1,1 +1,1 @@
-export const _token = "<-- YOUR-TOKEN -->";
+export const _token = import.meta.env.VITE_TOKEN;
